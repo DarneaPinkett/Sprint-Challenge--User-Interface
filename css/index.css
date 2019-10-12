@@ -200,15 +200,18 @@ footer nav a {
     flex-flow: row wrap;
     justify-content: space-between;
     width: 100%;
-    border: 1px solid red;
 }
 
-
+button {
+    background: transparent;
+    border-radius: 6px;
+    border: 1px solid black;
+}
 
 .B1 {
     display: flex;
-    width: 45%;
+    width: 48%;
     flex-direction: row;
     flex-wrap: wrap;
-    border: 1px solid blue;
+    padding: 20px;
 }

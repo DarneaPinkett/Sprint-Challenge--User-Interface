@@ -205,9 +205,9 @@ footer nav a {
 .main-content div {
     width: 48%;
     height: 200px;
-    margin-bottom: 30px;
     display: flex;
     flex-wrap: wrap;
+    padding: 20px;
 }
 
 .B1 {
@@ -215,4 +215,5 @@ footer nav a {
     width: 45%;
     flex-direction: row;
     flex-wrap: wrap;
+    padding: 20px;
 }

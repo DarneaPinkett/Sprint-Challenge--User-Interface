@@ -119,6 +119,46 @@ nav a {
     justify-content: center;
 }
 
+.middle-content .boxes .box.teal {
+    background: teal !important;
+}
+
+.middle-content .boxes .box.gold {
+    background: gold !important;
+}
+
+.middle-content .boxes .box.cadetblue {
+    background: cadetblue !important;
+}
+
+.middle-content .boxes .box.coral {
+    background: coral !important;
+}
+
+.middle-content .boxes .box.crimson {
+    background: crimson !important;
+}
+
+.middle-content .boxes .box.forestgreen {
+    background: forestgreen !important;
+}
+
+.middle-content .boxes .box.darkorchild {
+    background: darkorchid !important;
+}
+
+.middle-content .boxes .box.hotpink {
+    background: hotpink !important;
+}
+
+.middle-content .boxes .box.indigo {
+    background: indigo !important;
+}
+
+.middle-content .boxes .box.dodgerblue {
+    background: dodgerblue !important;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -150,10 +190,6 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
-}
-
-.teal {
-    color: teal;
 }
 
 .main-content {

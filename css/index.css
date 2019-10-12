@@ -200,20 +200,15 @@ footer nav a {
     flex-flow: row wrap;
     justify-content: space-between;
     width: 100%;
+    border: 1px solid red;
 }
 
-.main-content div {
-    width: 48%;
-    height: 200px;
-    display: flex;
-    flex-wrap: wrap;
-    padding: 20px;
-}
+
 
 .B1 {
     display: flex;
     width: 45%;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 20px;
+    border: 1px solid blue;
 }

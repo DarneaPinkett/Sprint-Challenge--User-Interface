@@ -71,10 +71,12 @@ p {
     margin: 0 auto;
 }
 
-nav a {
+nav {
     margin: 10px;
     display: flex;
     flex-direction: row;
+    color: black;
+    justify-content: space-around;
 
 }
 

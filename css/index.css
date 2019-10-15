@@ -71,6 +71,15 @@ p {
     margin: 0 auto;
 }
 
+nav {
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    color: black;
+    justify-content: space-around;
+
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -112,6 +121,46 @@ p {
     justify-content: center;
 }
 
+.middle-content .boxes .box.teal {
+    background: teal !important;
+}
+
+.middle-content .boxes .box.gold {
+    background: gold !important;
+}
+
+.middle-content .boxes .box.cadetblue {
+    background: cadetblue !important;
+}
+
+.middle-content .boxes .box.coral {
+    background: coral !important;
+}
+
+.middle-content .boxes .box.crimson {
+    background: crimson !important;
+}
+
+.middle-content .boxes .box.forestgreen {
+    background: forestgreen !important;
+}
+
+.middle-content .boxes .box.darkorchild {
+    background: darkorchid !important;
+}
+
+.middle-content .boxes .box.hotpink {
+    background: hotpink !important;
+}
+
+.middle-content .boxes .box.indigo {
+    background: indigo !important;
+}
+
+.middle-content .boxes .box.dodgerblue {
+    background: dodgerblue !important;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -143,4 +192,26 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+.main-content {
+    margin: 25px 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 100%;
+}
+
+button {
+    background: transparent;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+
+.B1 {
+    display: flex;
+    width: 48%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
 }
